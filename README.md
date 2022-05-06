@@ -8,7 +8,7 @@
 
 ## How it works
 * The video is captured with the help of OpenCV. Then keypoints from various elements are extracted using mediapipe.
-* These keypoints and landmarks are used to train the new Holistic model.
+* These keypoints and landmarks are used to train the new model.
 * By using this model, the signal that the pedestrian is showing is interpreted.
 
 ## Architecture
