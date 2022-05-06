@@ -11,6 +11,12 @@
 * These keypoints and landmarks are used to train the new Holistic model.
 * By using this model, the signal that the pedestrian is showing is interpreted.
 
+## Contributors
+• Sankara Subramanian
+• Muhammed Kaif
+• Sanjeev
+• Arun
+
 
 ## Contributing and Support
 
