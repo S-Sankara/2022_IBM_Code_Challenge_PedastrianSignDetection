@@ -36,6 +36,9 @@
 ### Test in Real Time
 * Testing in real time to evaluate results.
 
+## Personas of the System
+* Automotives,emergency responders and autonomous vehicles.
+
 ## Screenshots
 
 ![Screenshot (252)](https://user-images.githubusercontent.com/65020263/167149582-dde78c57-20ec-4059-b8dc-725f341520e8.png)
