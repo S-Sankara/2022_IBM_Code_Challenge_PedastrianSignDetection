@@ -49,7 +49,7 @@
 * [S Sankara Subramanian](https://github.com/S-Sankara) 
 * [Muhammed Kaif](https://github.com/m25kaif)
 * [Sanjeev Kumar Upadhyay](https://github.com/Sanjeevkrup)
-* Arun
+* [Arun](https://github.com/Arunsasi07)
 
 ## Contributing and Support
 
