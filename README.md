@@ -1,12 +1,4 @@
 <h1 align="center"> 2022_IBM_Code_Challenge_PedestrianSignDetection </h1>
-[![Build Status](https://travis-ci.com/IBM/openapi-validator.svg?branch=main)](https://travis-ci.com/IBM/openapi-validator)
-[![npm-version](https://img.shields.io/npm/v/ibm-openapi-validator.svg)](https://www.npmjs.com/package/ibm-openapi-validator)
-[![codecov](https://codecov.io/gh/ibm/openapi-validator/branch/main/graph/badge.svg)](https://codecov.io/gh/ibm/openapi-validator)
-[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
-[![Gitter](https://badges.gitter.im/openapi-validator/community.svg)](https://gitter.im/openapi-validator/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-[![CLA assistant](https://cla-assistant.io/readme/badge/ibm/openapi-validator)](https://cla-assistant.io/ibm/openapi-validator)
-
 
 ## Problem Statement:
 * To create a program to recognize the hand signals provided by pedestrians and take appropriate action on the Autonomous Vehicle. For example,if the pedestrian is showing 'STOP' signal, then the vehicle should decrease the speed and stop.
