@@ -11,25 +11,13 @@
 ### Presentation : [Google Slides](https://docs.google.com/presentation/d/176ZI5EOF0AXElZLJ9NnMTjSnmssYXgpPsXHF-5kVssk/edit?usp=sharing)
 
 ## Architecture
-### Import and Install Dependencies
+
 * Importing the dependencies that are used in this code.
-
-### Extract Keypoint Values
 * Extracting values of keypoints from hands and faces.
-
-### Setup Folders for Collection
 * The folders are created that are useful for data collection.
-
-### Collect Keypoint Values for Training and Testing
 * The collected keypoints are converted into numpy array which is useful for training.
-
-### Preprocess Data and Create Labels and Features
 * The Data which is collected are preprocessed and assign the labels.
-
-### Build and Train LSTM Neural Network
 * Build the LSTM Neural Network and used for training.
-
-### Evaluation using Confusion Matrix and Accuracy
 * Evaluation of model by Confusion Matrix and Accuracy.
 
 ### Test in Real Time
