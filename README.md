@@ -54,3 +54,7 @@
 ## Contributing and Support
 
 Feel free to open a pull request if you can help in improving this project.
+
+
+## License
+Code released under the [AGPL](LICENSE)
