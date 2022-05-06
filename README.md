@@ -1,4 +1,4 @@
-<h1 align="center">022_IBM_Code_Challenge_PedestrianSignDetection </h1>
+<h1 align="center">2022_IBM_Code_Challenge_PedestrianSignDetection </h1>
 
 ## Problem Statement:
 * To create a program to recognize the hand signals provided by pedestrians and take appropriate action on the Autonomous Vehicle. For example,if the pedestrian is showing 'STOP' signal, then the vehicle should decrease the speed and stop.
